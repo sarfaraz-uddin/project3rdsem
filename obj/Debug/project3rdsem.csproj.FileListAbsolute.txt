@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\project3rdsem\bin\Debug\project3rdsem.exe.config
+C:\Users\Dell\source\repos\project3rdsem\bin\Debug\project3rdsem.exe
+C:\Users\Dell\source\repos\project3rdsem\bin\Debug\project3rdsem.pdb
+C:\Users\Dell\source\repos\project3rdsem\obj\Debug\project3rdsem.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\project3rdsem\obj\Debug\project3rdsem.login.resources
+C:\Users\Dell\source\repos\project3rdsem\obj\Debug\project3rdsem.Properties.Resources.resources
+C:\Users\Dell\source\repos\project3rdsem\obj\Debug\project3rdsem.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\project3rdsem\obj\Debug\project3rdsem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\project3rdsem\obj\Debug\project3rdsem.exe
+C:\Users\Dell\source\repos\project3rdsem\obj\Debug\project3rdsem.pdb
+C:\Users\Dell\source\repos\project3rdsem\obj\Debug\project3rdsem.forgotpswd.resources
+C:\Users\Dell\source\repos\project3rdsem\obj\Debug\project3rdsem.resetpswd.resources
+C:\Users\Dell\source\repos\project3rdsem\obj\Debug\project3rdsem.StudentManagementSystem.resources
+C:\Users\Dell\source\repos\project3rdsem\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\source\repos\project3rdsem\obj\Debug\project3rdsem.registrationform.resources
+C:\Users\Dell\source\repos\project3rdsem\obj\Debug\project3rdsem.csproj.CopyComplete
+C:\Users\Dell\source\repos\project3rdsem\obj\Debug\project3rdsem.managestudent.resources
